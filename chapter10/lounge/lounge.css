@@ -33,3 +33,6 @@ h2 {
   background-repeat:   no-repeat;
   background-position: top left;
 }
+#elixirs{
+  border:thin solid black;
+}
